@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "573351647531",
+    "firebase_url": "https://fir-authex-e32ad.firebaseio.com",
+    "project_id": "fir-authex-e32ad",
+    "storage_bucket": "fir-authex-e32ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573351647531:android:621c34126521cdc3",
+        "android_client_info": {
+          "package_name": "com.example.sharath.firebaseauthex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573351647531-lshaae2dduo4r2kijcu6dpnhufaladk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3TtCHgGqdfRz2Z033I3eHfoDR29u-SKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
